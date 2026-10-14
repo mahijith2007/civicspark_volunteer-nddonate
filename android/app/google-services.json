@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643971137590",
+    "project_id": "civicspark-app-c1a9f",
+    "storage_bucket": "civicspark-app-c1a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643971137590:android:92d9fb086032da140bd897",
+        "android_client_info": {
+          "package_name": "com.civicspark.civicspark_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSPZVECyzUijWNkinHs6iIKcekTGyYcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

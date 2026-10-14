@@ -47,11 +47,6 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
-# ── Firebase / Google Services (NEVER commit these) ──────────────────────────
-google-services.json
-GoogleService-Info.plist
-lib/firebase_options.dart
-
 # ── Environment secrets ───────────────────────────────────────────────────────
 .env
 *.env
